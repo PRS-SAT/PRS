@@ -1,9 +1,5 @@
 PRS is a parallel SAT solver developed with C/C++.
 
-Now, there is only one excutable file `PRS' in this repository.
-Source codes will be released after SAT Competition 2023.
-
-
 ## How to build
 ```
 make clean; make
